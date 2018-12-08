@@ -1,0 +1,11 @@
+slackpkg+: slackpkg+ plugin for third-party repositories
+slackpkg+:
+slackpkg+: Slackpkg is a package manager for Slackware. 
+slackpkg+:
+slackpkg+: Slackpkg+ is a plugin for slackpkg.
+slackpkg+:   It adds support for third-party repositories.
+slackpkg+:   You can install, upgrade and search from multiple repositories.
+slackpkg+:
+slackpkg+:
+slackpkg+:
+slackpkg+:
